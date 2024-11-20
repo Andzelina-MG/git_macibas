@@ -1,0 +1,35 @@
+Katrs jautājums ir 1 punkts!
+
+1. Mainīgam Kaste pieškiram vērtību Pods, kas ir teksts'
+Kaste="Pods" 
+
+
+2. Mainīgais Lapa nav vienāds ar 12
+Lapa!=12 
+
+3. Izteiksme 15 atlikums no 3
+15%3 
+
+4. Izteiksme 22 dalam veselos skaitļos ar 8
+22//8 
+
+5. x vērtība tiek palielināta par 2
+x*2 
+x+=2 
+
+6. x vērtība tiek samazināta par 7
+y=+7 
+
+7. Mainīgam Ods tiek piešķirts saraksts no 2 burtiem - A un burtiem
+Ods=["A", "B"] 
+
+
+8. Kā sauc mainīgo, kas tiek rakstīts uzreiz aiz for
+cikla skaitītājs
+
+9. A lielāks nekā 8 un B mazāks nekā 2
+A>8
+B<2
+
+10. Mainīgais Lapa ir vienāds ar Pols
+Lapa==Pols
